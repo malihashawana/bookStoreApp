@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "story book",
+        "title": "get the interesting book",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/books-seamless-pattern-doodle-outline-textbooks_107791-9584.jpg?t=st=1721213086~exp=1721216686~hmac=652973b2a2d87b07ece3c122d8a748d5e0dfbe1d12f10bc357ebe1ec698cb51f&w=740"
+    },
+    {
+        "id": 2,
+        "name": "sports book",
+        "title": "get the interesting book",
+        "price": 50,
+        "category": "sports",
+        "image": "https://img.freepik.com/free-vector/books-seamless-pattern-doodle-outline-textbooks_107791-9584.jpg?t=st=1721213086~exp=1721216686~hmac=652973b2a2d87b07ece3c122d8a748d5e0dfbe1d12f10bc357ebe1ec698cb51f&w=740"
+    },
+    {
+        "id": 3,
+        "name": "music book",
+        "title": "get the interesting book",
+        "price": 100,
+        "category": "music",
+        "image": "https://img.freepik.com/free-vector/books-seamless-pattern-doodle-outline-textbooks_107791-9584.jpg?t=st=1721213086~exp=1721216686~hmac=652973b2a2d87b07ece3c122d8a748d5e0dfbe1d12f10bc357ebe1ec698cb51f&w=740"
+    }
+]
